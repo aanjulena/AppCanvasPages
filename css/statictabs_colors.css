@@ -1,0 +1,256 @@
+#htmlfangate .content {
+  background-color: #1cbabc;
+  background-image: linear-gradient(to top, #97ecec 0, #1cbabc 40%, #158e90 100%);
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#htmlfangate #main .icon-banner .icon-container .icon {
+  background-image: url(../../iframehost/img/htmlfangate.png);
+}
+#htmlfangate .install-tab span {
+  background: #1cbabc;
+  background: -moz-linear-gradient(top, #1cbabc 0, #158e90 100%);
+  background: -webkit-linear-gradient(top, #1cbabc 0, #158e90 100%);
+  background: -o-linear-gradient(top, #1cbabc 0, #158e90 100%);
+  background: -ms-linear-gradient(top, #1cbabc 0, #158e90 100%);
+  background: linear-gradient(top, #1cbabc 0, #158e90 100%);
+  border-color: #158e90;
+}
+#htmlfangate .install-tab span:hover {
+  background: #1cbabc;
+}
+#htmlfangate .install-tab span:hover:after {
+  border-top-color: #1cbabc;
+}
+#htmlfangate .install-tab span:after {
+  border-top-color: #158e90;
+}
+#htmlfangate .main-banner h4 span, #htmlfangate .main-banner h2, #htmlfangate #main .main-banner .info .bottom .btn-link.btn-sm:hover, #htmlfangate a:hover {
+  color: #97ecec;
+}
+#htmlfangate .nav li a.hover, #htmlfangate .nav li a:hover, #htmlfangate .processed.footer .btn-link.btn-sm:hover, #htmlfangate #footer a:hover, #htmlfangate .modal-footer .btn-lg:hover, #htmlfangate .modal .label:hover {
+  color: #1cbabc;
+}
+#htmlfangate li.get a, #htmlfangate li.get a:hover, #htmlfangate h2:before, #htmlfangate .modal label input[type="radio"]:checked + span, #htmlfangate .modal-footer button.btn-primary:hover {
+  color: #fff;
+  background: #1cbabc;
+}
+#htmlfangate .tabs li:hover a:not(.btn-xs), #htmlfangate .boxes li:hover .circle {
+  background-color: #1cbabc;
+}
+#htmlfangate ul.sub-nav li:hover, #htmlfangate ul.features li:hover span, #htmlfangate .modal-footer button.btn-primary {
+  background: #158e90;
+  color: #fff;
+  border-color: #158e90;
+}
+#htmlfangate .page .tabs p .btn-xs:hover, #htmlfangate .modal-footer button.btn-default:hover {
+  border-color: #158e90;
+  color: #158e90;
+}
+
+#pinterest .content {
+  background-color: #f3655d;
+  background-image: linear-gradient(to top, #ffd3d1 0, #f3655d 40%, #ef382e 100%);
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#pinterest #main .icon-banner .icon-container .icon {
+  background-image: url(../../iframehost/img/pinterest.png);
+}
+#pinterest .install-tab span {
+  background: #f3655d;
+  background: -moz-linear-gradient(top, #f3655d 0, #ef382e 100%);
+  background: -webkit-linear-gradient(top, #f3655d 0, #ef382e 100%);
+  background: -o-linear-gradient(top, #f3655d 0, #ef382e 100%);
+  background: -ms-linear-gradient(top, #f3655d 0, #ef382e 100%);
+  background: linear-gradient(top, #f3655d 0, #ef382e 100%);
+  border-color: #ef382e;
+}
+#pinterest .install-tab span:hover {
+  background: #f3655d;
+}
+#pinterest .install-tab span:hover:after {
+  border-top-color: #f3655d;
+}
+#pinterest .install-tab span:after {
+  border-top-color: #ef382e;
+}
+#pinterest .main-banner h4 span, #pinterest .main-banner h2, #pinterest #main .main-banner .info .bottom .btn-link.btn-sm:hover, #pinterest a:hover {
+  color: #ffd3d1;
+}
+#pinterest .nav li a.hover, #pinterest .nav li a:hover, #pinterest .processed.footer .btn-link.btn-sm:hover, #pinterest #footer a:hover, #pinterest .modal-footer .btn-lg:hover, #pinterest .modal .label:hover {
+  color: #f3655d;
+}
+#pinterest li.get a, #pinterest li.get a:hover, #pinterest h2:before, #pinterest .modal label input[type="radio"]:checked + span, #pinterest .modal-footer button.btn-primary:hover {
+  color: #fff;
+  background: #f3655d;
+}
+#pinterest .tabs li:hover a:not(.btn-xs), #pinterest .boxes li:hover .circle {
+  background-color: #f3655d;
+}
+#pinterest ul.sub-nav li:hover, #pinterest ul.features li:hover span, #pinterest .modal-footer button.btn-primary {
+  background: #ef382e;
+  color: #fff;
+  border-color: #ef382e;
+}
+#pinterest .page .tabs p .btn-xs:hover, #pinterest .modal-footer button.btn-default:hover {
+  border-color: #ef382e;
+  color: #ef382e;
+}
+
+#twitter .content {
+  background-color: #038ecf;
+  background-image: linear-gradient(to top, #5ebae7 0, #038ecf 40%, #026c9d 100%);
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#twitter #main .icon-banner .icon-container .icon {
+  background-image: url(../../iframehost/img/twitter.png);
+  background-position: 0 -25px;
+}
+#twitter .install-tab span {
+  background: #038ecf;
+  background: -moz-linear-gradient(top, #038ecf 0, #026c9d 100%);
+  background: -webkit-linear-gradient(top, #038ecf 0, #026c9d 100%);
+  background: -o-linear-gradient(top, #038ecf 0, #026c9d 100%);
+  background: -ms-linear-gradient(top, #038ecf 0, #026c9d 100%);
+  background: linear-gradient(top, #038ecf 0, #026c9d 100%);
+  border-color: #026c9d;
+}
+#twitter .install-tab span:hover {
+  background: #038ecf;
+}
+#twitter .install-tab span:hover:after {
+  border-top-color: #038ecf;
+}
+#twitter .install-tab span:after {
+  border-top-color: #026c9d;
+}
+#twitter .main-banner h4 span, #twitter .main-banner h2, #twitter #main .main-banner .info .bottom .btn-link.btn-sm:hover, #twitter a:hover {
+  color: #5ebae7;
+}
+#twitter .nav li a.hover, #twitter .nav li a:hover, #twitter .processed.footer .btn-link.btn-sm:hover, #twitter #footer a:hover, #twitter .modal-footer .btn-lg:hover, #twitter .modal .label:hover {
+  color: #038ecf;
+}
+#twitter li.get a, #twitter li.get a:hover, #twitter h2:before, #twitter .modal label input[type="radio"]:checked + span, #twitter .modal-footer button.btn-primary:hover {
+  color: #fff;
+  background: #038ecf;
+}
+#twitter .tabs li:hover a:not(.btn-xs), #twitter .boxes li:hover .circle {
+  background-color: #038ecf;
+}
+#twitter ul.sub-nav li:hover, #twitter ul.features li:hover span, #twitter .modal-footer button.btn-primary {
+  background: #026c9d;
+  color: #fff;
+  border-color: #026c9d;
+}
+#twitter .page .tabs p .btn-xs:hover, #twitter .modal-footer button.btn-default:hover {
+  border-color: #026c9d;
+  color: #026c9d;
+}
+
+#youtube .content {
+  background-color: #e63a3a;
+  background-image: linear-gradient(to top, #ffb2b2 0, #e63a3a 40%, #c40013 100%);
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#youtube #main .icon-banner .icon-container .icon {
+  background-image: url(../../iframehost/img/youtube.png);
+  background-position: 0 -30px;
+}
+#youtube .install-tab span {
+  background: #e63a3a;
+  background: -moz-linear-gradient(top, #e63a3a 0, #c40013 100%);
+  background: -webkit-linear-gradient(top, #e63a3a 0, #c40013 100%);
+  background: -o-linear-gradient(top, #e63a3a 0, #c40013 100%);
+  background: -ms-linear-gradient(top, #e63a3a 0, #c40013 100%);
+  background: linear-gradient(top, #e63a3a 0, #c40013 100%);
+  border-color: #c40013;
+}
+#youtube .install-tab span:hover {
+  background: #e63a3a;
+}
+#youtube .install-tab span:hover:after {
+  border-top-color: #e63a3a;
+}
+#youtube .install-tab span:after {
+  border-top-color: #c40013;
+}
+#youtube .main-banner h4 span, #youtube .main-banner h2, #youtube #main .main-banner .info .bottom .btn-link.btn-sm:hover, #youtube a:hover {
+  color: #ffb2b2;
+}
+#youtube .nav li a.hover, #youtube .nav li a:hover, #youtube .processed.footer .btn-link.btn-sm:hover, #youtube #footer a:hover, #youtube .modal-footer .btn-lg:hover, #youtube .modal .label:hover {
+  color: #e63a3a;
+}
+#youtube li.get a, #youtube li.get a:hover, #youtube h2:before, #youtube .modal label input[type="radio"]:checked + span, #youtube .modal-footer button.btn-primary:hover {
+  color: #fff;
+  background: #e63a3a;
+}
+#youtube .tabs li:hover a:not(.btn-xs), #youtube .boxes li:hover .circle {
+  background-color: #e63a3a;
+}
+#youtube ul.sub-nav li:hover, #youtube ul.features li:hover span, #youtube .modal-footer button.btn-primary {
+  background: #c40013;
+  color: #fff;
+  border-color: #c40013;
+}
+#youtube .page .tabs p .btn-xs:hover, #youtube .modal-footer button.btn-default:hover {
+  border-color: #c40013;
+  color: #c40013;
+}
+
+#instagram .content {
+  background-color: #ff8a11;
+  background-image: linear-gradient(to top, #ffc890 0, #ff8a11 40%, #dd7000 100%);
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#instagram #main .icon-banner .icon-container .icon {
+  background-image: url(../../iframehost/img/instagram.png);
+}
+#instagram .install-tab span {
+  background: #ff8a11;
+  background: -moz-linear-gradient(top, #ff8a11 0, #dd7000 100%);
+  background: -webkit-linear-gradient(top, #ff8a11 0, #dd7000 100%);
+  background: -o-linear-gradient(top, #ff8a11 0, #dd7000 100%);
+  background: -ms-linear-gradient(top, #ff8a11 0, #dd7000 100%);
+  background: linear-gradient(top, #ff8a11 0, #dd7000 100%);
+  border-color: #dd7000;
+}
+#instagram .install-tab span:hover {
+  background: #ff8a11;
+}
+#instagram .install-tab span:hover:after {
+  border-top-color: #ff8a11;
+}
+#instagram .install-tab span:after {
+  border-top-color: #dd7000;
+}
+#instagram .main-banner h4 span, #instagram .main-banner h2, #instagram #main .main-banner .info .bottom .btn-link.btn-sm:hover, #instagram a:hover {
+  color: #ffc890;
+}
+#instagram .nav li a.hover, #instagram .nav li a:hover, #instagram .processed.footer .btn-link.btn-sm:hover, #instagram #footer a:hover, #instagram .modal-footer .btn-lg:hover, #instagram .modal .label:hover {
+  color: #ff8a11;
+}
+#instagram li.get a, #instagram li.get a:hover, #instagram h2:before, #instagram .modal label input[type="radio"]:checked + span, #instagram .modal-footer button.btn-primary:hover {
+  color: #fff;
+  background: #ff8a11;
+}
+#instagram .tabs li:hover a:not(.btn-xs), #instagram .boxes li:hover .circle {
+  background-color: #ff8a11;
+}
+#instagram ul.sub-nav li:hover, #instagram ul.features li:hover span, #instagram .modal-footer button.btn-primary {
+  background: #dd7000;
+  color: #fff;
+  border-color: #dd7000;
+}
+#instagram .page .tabs p .btn-xs:hover, #instagram .modal-footer button.btn-default:hover {
+  border-color: #dd7000;
+  color: #dd7000;
+}
