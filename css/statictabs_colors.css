@@ -6,7 +6,7 @@
   background-size: cover;
 }
 #htmlfangate #main .icon-banner .icon-container .icon {
-  background-image: url(../../iframehost/img/htmlfangate.png);
+  background-image: url(//wooboxcustomer.s3.amazonaws.com/iframehost/img/htmlfangate.png);
 }
 #htmlfangate .install-tab span {
   background: #1cbabc;
@@ -57,7 +57,7 @@
   background-size: cover;
 }
 #pinterest #main .icon-banner .icon-container .icon {
-  background-image: url(../../iframehost/img/pinterest.png);
+  background-image: url(//wooboxcustomer.s3.amazonaws.com/iframehost/img/pinterest.png);
 }
 #pinterest .install-tab span {
   background: #f3655d;
@@ -108,7 +108,7 @@
   background-size: cover;
 }
 #twitter #main .icon-banner .icon-container .icon {
-  background-image: url(../../iframehost/img/twitter.png);
+  background-image: url(//wooboxcustomer.s3.amazonaws.com/iframehost/img/twitter.png);
   background-position: 0 -25px;
 }
 #twitter .install-tab span {
@@ -160,7 +160,7 @@
   background-size: cover;
 }
 #youtube #main .icon-banner .icon-container .icon {
-  background-image: url(../../iframehost/img/youtube.png);
+  background-image: url(//wooboxcustomer.s3.amazonaws.com/iframehost/img/youtube.png);
   background-position: 0 -30px;
 }
 #youtube .install-tab span {
@@ -212,7 +212,7 @@
   background-size: cover;
 }
 #instagram #main .icon-banner .icon-container .icon {
-  background-image: url(../../iframehost/img/instagram.png);
+  background-image: url(//wooboxcustomer.s3.amazonaws.com/iframehost/img/instagram.png);
 }
 #instagram .install-tab span {
   background: #ff8a11;
