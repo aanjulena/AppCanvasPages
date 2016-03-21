@@ -16,6 +16,7 @@
 <!-- Woobox Styles -->
 <link href='//fonts.googleapis.com/css?family=Maven+Pro:400,500,700,900' rel='stylesheet' type='text/css' />
 <link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:400,700,200,300' rel='stylesheet' type='text/css' />
+<link href='fonts/bebasneue.css' rel='stylesheet' type='text/css' />
 <link rel="stylesheet" type="text/css" href="//woobox.com/css/new/common.css?v1.2" media="screen" />
 <link rel="stylesheet" type="text/css" href="//woobox.com/css/new/style.css?v1.2"  media="screen" />
 
@@ -28,7 +29,10 @@
 <![endif]-->
 
 <!-- IFRAMEHOST Styles -->
-<link rel="stylesheet" href="https://dl.dropboxusercontent.com/u/55861319/Woobox/css/iframehost.css">
+<!--<link rel="stylesheet" href="https://dl.dropboxusercontent.com/u/55861319/Woobox/css/iframehost.css">-->
+<link rel="stylesheet" href="css/woobox_override.css">
+<link rel="stylesheet" href="css/statictabs_layout.css">
+<link rel="stylesheet" href="css/statictabs_colors.css">
 
 <script type="text/javascript">
 $(document).ready(function () {
@@ -45,60 +49,6 @@ $(document).ready(function () {
 });
 </script>
 
-<style>
-.content {
-	background-color: #e63a3a;
-	background-image: url(//dl.dropboxusercontent.com/u/55861319/Woobox/wave_bg.png),linear-gradient(to top,#e63a3a 0,#c40013 100%);
-	background-position: center bottom;
-	background-repeat: no-repeat;
-	background-size: cover;
-}
-.main-contant {
-	background: url('https://woobox.com/img/new/main-contant.png') center top no-repeat;
-}
-#youtube .main-contant h2, .main-contant h4 span {
-    color: #e63a3a;
-}
-#youtube li.get a, #youtube li.get a:hover, h2:before, ul.features li:hover span {
-    background: #c40013;
-	 color: #fff;
-}
-.nav li a.hover, .nav li a:hover, .processed.footer .btn-link.btn-sm:hover, #footer a:hover {	
-	color: #c40013;
-}
-ul.sub-nav li:hover {
-	background: #e63a3a;
-	color: #fff;
-}
-#youtube .main-contant .install-tab a {
-	margin: 35px 0;
-}
-	#youtube .install-tab span {
-		background: #e63a3a;
-		background: -moz-linear-gradient(top, #e63a3a 0%, #c40013 100%);
-		background: -webkit-linear-gradient(top, #e63a3a 0%, #c40013 100%);
-		background: -o-linear-gradient(top, #e63a3a 0%, #c40013 100%);
-		background: -ms-linear-gradient(top, #e63a3a 0%, #c40013 100%);
-		background: linear-gradient(top, #e63a3a 0%, #c40013 100%);
-		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e63a3a', endColorstr='#c40013',GradientType=0 );
-	}
-	#youtube .install-tab span:hover {
-		background: #c40013;
-		background: -moz-linear-gradient(top,  #c40013 0%, #e63a3a 100%);
-		background: -webkit-linear-gradient(top,  #c40013 0%,#e63a3a 100%);
-		background: -o-linear-gradient(top,  #c40013 0%,#e63a3a 100%);
-		background: -ms-linear-gradient(top,  #c40013 0%,#e63a3a 100%);
-		background: linear-gradient(top,  #c40013 0%,#e63a3a 100%);
-		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c40013', endColorstr='#e63a3a',GradientType=0 );
-	}
-	#youtube .install-tab span:hover:after {
-		border-top-color: #e63a3a;
-	}
-	#youtube .install-tab span:after {
-		border-top-color: #c40013;
-	}
-</style>
-
 </head>
 
 <body>
@@ -108,7 +58,7 @@ ul.sub-nav li:hover {
 <!--Header Section-->
 <div class="header">
 <div class="page">
-<div class="logo"><a href="/"><img src="//woobox.com/img/new/logo.png" alt="woobox" title="Welcome To Woobox" /></a></div>
+<div class="logo"><a href="/"><img src="img/logo.png" alt="woobox" title="Welcome To Woobox" /></a></div>
 <ul class="nav">
   <li class="more"><a href="#">FREE APPS</a>
 	<div class='sub-nav_container'>
