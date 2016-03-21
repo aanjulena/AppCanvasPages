@@ -6,7 +6,12 @@
   background-size: cover;
 }
 #htmlfangate #main .icon-banner .icon-container .icon {
-  background-image: url(//wooboxcustomer.s3.amazonaws.com/iframehost/img/htmlfangate.png);
+  background-image: url(img/htmlfangate.png);
+}
+#htmlfangate .install-tab span i {
+  background-image: url(img/htmlfangate_50.png);
+  width: 30px;
+  height: 30px;
 }
 #htmlfangate .install-tab span {
   background: #1cbabc;
@@ -57,7 +62,12 @@
   background-size: cover;
 }
 #pinterest #main .icon-banner .icon-container .icon {
-  background-image: url(//wooboxcustomer.s3.amazonaws.com/iframehost/img/pinterest.png);
+  background-image: url(img/pinterest.png);
+}
+#pinterest .install-tab span i {
+  background-image: url(img/pinterest_50.png);
+  width: 30px;
+  height: 30px;
 }
 #pinterest .install-tab span {
   background: #f3655d;
@@ -108,8 +118,13 @@
   background-size: cover;
 }
 #twitter #main .icon-banner .icon-container .icon {
-  background-image: url(//wooboxcustomer.s3.amazonaws.com/iframehost/img/twitter.png);
+  background-image: url(img/twitter.png);
   background-position: 0 -25px;
+}
+#twitter .install-tab span i {
+  background-image: url(img/twitter_50.png);
+  width: 30px;
+  height: 30px;
 }
 #twitter .install-tab span {
   background: #038ecf;
@@ -160,8 +175,13 @@
   background-size: cover;
 }
 #youtube #main .icon-banner .icon-container .icon {
-  background-image: url(//wooboxcustomer.s3.amazonaws.com/iframehost/img/youtube.png);
+  background-image: url(img/youtube.png);
   background-position: 0 -30px;
+}
+#youtube .install-tab span i {
+  background-image: url(img/youtube_50.png);
+  width: 30px;
+  height: 30px;
 }
 #youtube .install-tab span {
   background: #e63a3a;
@@ -212,7 +232,7 @@
   background-size: cover;
 }
 #instagram #main .icon-banner .icon-container .icon {
-  background-image: url(//wooboxcustomer.s3.amazonaws.com/iframehost/img/instagram.png);
+  background-image: url(img/instagram.png);
 }
 #instagram .install-tab span {
   background: #ff8a11;
@@ -222,6 +242,11 @@
   background: -ms-linear-gradient(top, #ff8a11 0, #dd7000 100%);
   background: linear-gradient(top, #ff8a11 0, #dd7000 100%);
   border-color: #dd7000;
+}
+#instagram .install-tab span i {
+  background-image: url(img/instagram_50.png);
+  width: 30px;
+  height: 30px;
 }
 #instagram .install-tab span:hover {
   background: #ff8a11;
