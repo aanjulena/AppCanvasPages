@@ -198,6 +198,12 @@ border-radius: 16px 16px 0 0;
 	height: 85px;
 	margin: 0 auto;
 }
+.install-tab span i {
+	display: inline-block;
+    	background-size: contain;
+    	float: left;
+    	margin: .7em .25em .7em .6em;
+}
 #main .main-banner .info .btn-link.btn-sm, .processed.footer .btn-link.btn-sm {
     padding: 3px 10px;
     font-size: 13px;
